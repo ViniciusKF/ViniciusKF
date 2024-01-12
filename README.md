@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusKF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=swift"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=shadow_green"/>
 </div>
 
 ## 📫 Conecte-se comigo
