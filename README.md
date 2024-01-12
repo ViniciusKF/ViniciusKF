@@ -1,12 +1,24 @@
-# Olá! Eu sou o Vinicius 🖐️
+# Hello! I'm Vinicius 🖐️
 
-## 🎈 Sobre Mim
-- Eu sou o Vinicius, um entusiasta da área de Ciência da Computação com 20 anos de idade. Sou apaixonado por tecnologia e pela arte de programar, sempre em busca de conhecimento na área. Minha jornada acadêmica em Ciência da Computação na Universidade UNIJUÍ está repleta de aprendizado e desafios.
+## 🎈 Formation
   
-- **Cursando Ciência da Computação**
-  - Universidade [UNIJUÍ](https://www.unijui.edu.br/) (Data de Conclusão Prevista: 2025/2)
+- **Studying Computer Science**
+  - University [UNIJUÍ](https://www.unijui.edu.br/) (Expected Completion Date: 2025/2)
 
-## 🔧 Tecnologias e Ferramentas
+<p float="left">
+
+ <img align="right" height="300px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
+  
+ <h2>✨ A little bit about me </h2>
+ I am Vinicius, a Computer Science enthusiast. Passionate about technology and the art of programming, always seeking knowledge in the field. My academic journey in Computer Science at UNIJUÍ University is filled with learning and challenges.
+ 
+ 🌎 | Brazilian 🇧🇷 </br>
+ 🎨 | studying JAVA ☕ </br>
+ 💻 | I'm a Full Stack Developer 👨🏾‍💻 </br>
+ 👍 | A technology and development enthusiast 🔬 </br>
+</p>
+
+## 🔧 Technologies and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +35,7 @@
   </a>
 </div>
 
-## 📫 Conecte-se comigo
+## 📫 Connect with me
 
 <div> 
   <a href="mailto:viniciuskf2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,5 +44,5 @@
   <a href="https://www.instagram.com/vinicius_kf_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-Fique à vontade para entrar em contato para colaborações ou apenas para uma conversa amigável! 😊
+Feel free to get in touch for collaborations or just a friendly chat! 😊
 
