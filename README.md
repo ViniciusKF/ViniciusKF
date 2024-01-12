@@ -1,6 +1,8 @@
 # Olá! Eu sou o Vinicius 🖐️
 
 ## 🎈Sobre Mim
+- Eu sou o Vinicius, um entusiasta da área de Ciência da Computação com 20 anos de idade. Sou apaixonado por tecnologia e pela arte de programar, sempre em busca de conhecimento na área. Minha jornada acadêmica em Ciência da Computação na Universidade UNIJUÍ está repleta de aprendizado e desafios.
+  
 - **Cursando Ciência da Computação**
   - Universidade [UNIJUÍ](https://www.unijui.edu.br/) (Data de Conclusão Prevista: 2025/2)
 
@@ -15,12 +17,9 @@
 </div><br/>
 
 <div align="center">
-  
-  ### GitHub Statistics
-  
   <a href="https://github.com/ViniciusKF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=blue_navy"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=swift"/>
 </div>
 
 ## 📫 Conecte-se comigo
