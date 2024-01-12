@@ -1,17 +1,9 @@
 # Olá! Eu sou o Vinicius 🖐️
 
-### Sobre Mim
+## 🎈Sobre Mim
 - **Cursando Ciência da Computação**
   - Universidade [UNIJUÍ](https://www.unijui.edu.br/) (Data de Conclusão Prevista: 2025/2)
 
-### GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/ViniciusKF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=blue_navy"/>
-</div>
-    
 ## 🔧 Tecnologias e Ferramentas
 
 <div style="display: inline_block">
@@ -22,12 +14,22 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
+<div align="center">
+  
+  ### GitHub Statistics
+  
+  <a href="https://github.com/ViniciusKF">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=blue_navy"/>
+</div>
+
 ## 📫 Conecte-se comigo
 
 <div> 
- <a href="mailto:viniciuskf2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:viniciuskf2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-fuhrmann-6b0b16233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5555991494061" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vinicius_kf_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
