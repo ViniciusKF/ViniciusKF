@@ -30,8 +30,8 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusKF">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=shadow_green"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
@@ -43,6 +43,3 @@
   <a href="https://wa.me/5555991494061" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vinicius_kf_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-Feel free to get in touch for collaborations or just a friendly chat! 😊
-
