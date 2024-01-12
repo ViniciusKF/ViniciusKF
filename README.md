@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vinicius 🖐️
 
-## 🎈Sobre Mim
+## 🎈 Sobre Mim
 - Eu sou o Vinicius, um entusiasta da área de Ciência da Computação com 20 anos de idade. Sou apaixonado por tecnologia e pela arte de programar, sempre em busca de conhecimento na área. Minha jornada acadêmica em Ciência da Computação na Universidade UNIJUÍ está repleta de aprendizado e desafios.
   
 - **Cursando Ciência da Computação**
@@ -18,8 +18,9 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusKF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=shadow_green"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusKF&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusKF&layout=compact&langs_count=7&theme=shadow_green"/>
+  </a>
 </div>
 
 ## 📫 Conecte-se comigo
@@ -31,5 +32,5 @@
   <a href="https://www.instagram.com/vinicius_kf_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
 Fique à vontade para entrar em contato para colaborações ou apenas para uma conversa amigável! 😊
+
